@@ -1,0 +1,20 @@
+{
+  "name": "Test",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-art": "^16.3.2",
+    "react-dom": "^16.2.0",
+    "react-native-web": "latest",
+    "react-navigation": "git+https://github.com/react-navigation/react-navigation.git",
+    "react-scripts": "latest"
+  },
+  "devDependencies": {
+    "babel-preset-react-native": "4.0.0"
+  }
+}
